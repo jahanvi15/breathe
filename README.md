@@ -41,10 +41,3 @@ Team Member Socials: [Linkedin](https://www.linkedin.com/in/siddhant-vats/)<br/>
 ![Screenshot 5](./screenshots/5.png)
 ![Screenshot 6](./screenshots/6.png)
 
-## Links and References: 
-
-- [Devfolio](https://devfolio.co/projects/breathe-a-serene-adventure-30f2)
-
-- [GitHub](https://github.com/aku1310/breathe)
-
-- [Google Drive](https://drive.google.com/drive/folders/1UjoGZZc-LEj57IFiirZFxOcvCBdWoKiu?usp=sharing)
